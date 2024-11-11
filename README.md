@@ -2,7 +2,7 @@
 
 Meu nome é Janaina Ferreira de Matos 
 
-- Estou estudando na alura
+- Estou estudando na [alura](https://media1.tenor.com/m/opEBWw0uddoAAAAd/unm.girf).
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento do meu projetos desenvolvidos
 
